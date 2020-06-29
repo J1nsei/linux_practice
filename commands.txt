@@ -1,0 +1,3 @@
+gcc daemon.c -Wall -o mydaemon
+./mydaemon
+ps -e
